@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:15-744
+X-WR-TIMEZONE:US/Eastern
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070117T150000
+DTEND;TZID=US/Eastern:20070117T162000
+SUMMARY:15-744 (Intro:  History and context and packet switching. - DGA)
+DESCRIPTION:15-744 (Intro:  History and context and packet switching. - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070122T150000
+DTEND;TZID=US/Eastern:20070122T162000
+SUMMARY:15-744 (Internetworking:  Architectural principles, names, addresses - DGA)
+DESCRIPTION:15-744 (Internetworking:  Architectural principles, names, addresses - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070124T150000
+DTEND;TZID=US/Eastern:20070124T162000
+SUMMARY:15-744 (A best effort world, placement of function (reliability, security, etc.) - DGA)
+DESCRIPTION:15-744 (A best effort world, placement of function (reliability, security, etc.) - DGA)        Notes: Read the End-to-End Arguments paper (Saltzer84)<br /> if you
+haven't seen it before.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070129T150000
+DTEND;TZID=US/Eastern:20070129T162000
+SUMMARY:15-744 (Interdomain Routing - DGA)
+DESCRIPTION:15-744 (Interdomain Routing - DGA)        Notes: Only read sections 1, 3, skim 6, and 7 of GR for today
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070131T150000
+DTEND;TZID=US/Eastern:20070131T162000
+SUMMARY:15-744 (End-to-End Congestion Control - DGA)
+DESCRIPTION:15-744 (End-to-End Congestion Control - DGA)        Notes: For more examples of Reno/NewReno/etc., see the <a href="http://www.cs.cmu.edu/~srini/15-744/F04/lectures/04-tcpintro.ppt">ppt slides from 744 in 2004</a>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070205T150000
+DTEND;TZID=US/Eastern:20070205T162000
+SUMMARY:15-744 (No lecture.  Meetings about projects. - DGA)
+DESCRIPTION:15-744 (No lecture.  Meetings about projects. - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070207T150000
+DTEND;TZID=US/Eastern:20070207T162000
+SUMMARY:15-744 (Router congestion control - DGA)
+DESCRIPTION:15-744 (Router congestion control - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070212T150000
+DTEND;TZID=US/Eastern:20070212T162000
+SUMMARY:15-744 (Fair Queueing - DGA)
+DESCRIPTION:15-744 (Fair Queueing - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070214T150000
+DTEND;TZID=US/Eastern:20070214T162000
+SUMMARY:15-744 (Quality of Service - DGA)
+DESCRIPTION:15-744 (Quality of Service - DGA)        Notes: Project proposals due
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070219T150000
+DTEND;TZID=US/Eastern:20070219T162000
+SUMMARY:15-744 (Router Design - DGA)
+DESCRIPTION:15-744 (Router Design - DGA)        Notes: Optional reading: <a href="papers/D+97.pdf">D+97</a> (the "Lulea" algorithm)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070221T150000
+DTEND;TZID=US/Eastern:20070221T162000
+SUMMARY:15-744 (Wireless Networks overview and architectures - DGA)
+DESCRIPTION:15-744 (Wireless Networks overview and architectures - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070226T150000
+DTEND;TZID=US/Eastern:20070226T162000
+SUMMARY:15-744 (Wireless Networks in the real world - DGA)
+DESCRIPTION:15-744 (Wireless Networks in the real world - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070305T150000
+DTEND;TZID=US/Eastern:20070305T162000
+SUMMARY:15-744 (Routing in ad-hoc networks - DGA)
+DESCRIPTION:15-744 (Routing in ad-hoc networks - DGA)        Notes: Second MANET reading is mostly to flesh out the picture<br />Related:  <a href="http://pdos.csail.mit.edu/roofnet/doku.php?id=publications">Roofnet Publications</a> (In particular, Mobicom2005, Sigcomm2005, Sigcomm2004 papers)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070307T150000
+DTEND;TZID=US/Eastern:20070307T162000
+SUMMARY:15-744 (Making the Best of Broadcast - DGA)
+DESCRIPTION:15-744 (Making the Best of Broadcast - DGA)        Notes: ExOR SIGCOMM talk Slides: <a href="http://pdos.lcs.mit.edu/~biswas/exor-sigcomm.ppt">ppt</a>, <a href="http://pdos.lcs.mit.edu/~biswas/exor-sigcomm.pdf">PDF</a>.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070319T150000
+DTEND;TZID=US/Eastern:20070319T162000
+SUMMARY:15-744 (Mobility - DGA)
+DESCRIPTION:15-744 (Mobility - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070321T150000
+DTEND;TZID=US/Eastern:20070321T162000
+SUMMARY:15-744 (Overlay Networks 1 - DGA)
+DESCRIPTION:15-744 (Overlay Networks 1 - DGA)        Notes: No slides.  An <a href="http://www.reviews.com/hottopic/hottopic_essay_01.cfm">overview of overlay networks</a> and <a href="http://www.cs.cmu.edu/~srini/15-441/S05/lectures/24-p2p.pdf">15-441 notes on p2p</a>.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070326T150000
+DTEND;TZID=US/Eastern:20070326T162000
+SUMMARY:15-744 (Distributed Hash Tables - DGA)
+DESCRIPTION:15-744 (Distributed Hash Tables - DGA)        Notes: See also <a href="http://www.mpi-sws.mpg.de/~gummadi/papers/p1101-gummadi.pdf">DHT Geometry Comparison</a> paper.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070328T150000
+DTEND;TZID=US/Eastern:20070328T162000
+SUMMARY:15-744 (No class - project meetings - DGA)
+DESCRIPTION:15-744 (No class - project meetings - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070402T150000
+DTEND;TZID=US/Eastern:20070402T162000
+SUMMARY:15-744 (DNS and the Web - DGA)
+DESCRIPTION:15-744 (DNS and the Web - DGA)        Notes: Mike Freedman, the author of Coral, will be giving a job talk here on Monday the 9th, if people are interested.<br />For more DNS, see <a href="papers/dns-ton2002.pdf">DNS Performance and the Effectiveness of Caching</a>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070404T150000
+DTEND;TZID=US/Eastern:20070404T162000
+SUMMARY:15-744 (What's in a name?  Names, identifiers, and network architecture - DGA)
+DESCRIPTION:15-744 (What's in a name?  Names, identifiers, and network architecture - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070409T150000
+DTEND;TZID=US/Eastern:20070409T162000
+SUMMARY:15-744 (Measurement - DGA)
+DESCRIPTION:15-744 (Measurement - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070411T150000
+DTEND;TZID=US/Eastern:20070411T162000
+SUMMARY:15-744 (Guest Lecture - Christos Faloutsos:  Data Mining Tools for Large Graphs - DGA)
+DESCRIPTION:15-744 (Guest Lecture - Christos Faloutsos:  Data Mining Tools for Large Graphs - DGA)        Notes: Networks are filled with interesting graphs - the Web, the AS graph, the router topology, etc.  This lecture will examine some techniques for analyzing them to extract meaningful information.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070416T150000
+DTEND;TZID=US/Eastern:20070416T162000
+SUMMARY:15-744 (Multicast - DGA)
+DESCRIPTION:15-744 (Multicast - DGA)        Notes: Presented by Jeff
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070418T150000
+DTEND;TZID=US/Eastern:20070418T162000
+SUMMARY:15-744 (Security:  DDoS and Traceback - DGA)
+DESCRIPTION:15-744 (Security:  DDoS and Traceback - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070423T150000
+DTEND;TZID=US/Eastern:20070423T162000
+SUMMARY:15-744 (Security:  Worms - DGA)
+DESCRIPTION:15-744 (Security:  Worms - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070430T150000
+DTEND;TZID=US/Eastern:20070430T162000
+SUMMARY:15-744 (Project Presentations 1 - DGA)
+DESCRIPTION:15-744 (Project Presentations 1 - DGA)       
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US/Eastern:20070502T150000
+DTEND;TZID=US/Eastern:20070502T162000
+SUMMARY:15-744 (Project Presentations 2 - DGA)
+DESCRIPTION:15-744 (Project Presentations 2 - DGA)       
+END:VEVENT
+END:VCALENDAR

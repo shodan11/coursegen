@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>15-744 Announcements</title>
+    <link>http://www.cs.cmu.edu/~dga/15-744/S07/</link>
+    <description>Announcements feed for the 15-744 Computer Networks course</description>
+    <item>
+      <title>Projects due 05/14</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>Project writeups are due 05/14 to make sure we have a few days to grade them before CSD black friday.  Please disregard the earlier due date of 05/09.</description>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-05-01T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Tools homework 2 update</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>If you haven't done part of of hw2 yet, we suggest pinging the host &lt;tt&gt;eep.lcs.mit.edu&lt;/tt&gt; instead of &lt;tt&gt;www.cs.cmu.edu&lt;/tt&gt;.  www.cs seems to have a per-host IP ID counter, so it worked in the tests we ran from a single machine, but doesn't work when pinging from two hosts.</description>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-04-16T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Tools homework 2 online</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>The second tools homework is now online.  Note that scriptroute does not want to compile on andrew linux machines.  Use either your own or a CS linux machine if you have problems.</description>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-04-09T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Syllabus updated</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>The rest of the semester is filled in.</description>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-04-01T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>midterm and ps2 solutions</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>Midterm and problem set 2 solutions have been posted. (If you have not already, you can pick up your HWs and midterms from Jeff.)</description>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-03-19T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>scheduling project meetings</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>Please contact Barbara Gardillo, the course secretary, with the times your group can meet &lt;b&gt;next&lt;/b&gt; Wednesday (&lt;tt&gt;bag AT cs DOT cmu DOT edu&lt;/tt&gt;).</description>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-03-18T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>syllabus updated</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>The mobility lecture was moved to after spring break and the Best of Broadcast lecture inserted.</description>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-02-26T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>ps1 solutions annoted with points</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>Also, Q7 and Q9 had typos. Fixed now.</description>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-02-21T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Bug fixed in ps1 solutions</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>The solution for TCP Tahoe was buggy.  It's fixed.</description>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-02-15T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Problem Set 2 is available</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>Check the &lt;a href=&quot;http://www.cs.cmu.edu/~dga/15-744/S07/assignments.html&quot;&gt;assignments link&lt;/a&gt;.</description>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-02-14T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>ns Tutorial Recitation</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>Jeff will hold a short tutorial on ns this Friday at 3:00-4:30PM in WeH 5409.</description>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-02-14T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Link for CSZ'92 fixed</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>The CSZ'92 postscript was buggy.  The link now points to a verified good PDF.</description>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-02-13T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Project proposals due 2/14.</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>The &lt;a href=&quot;project.html&quot;&gt;project proposals&lt;/a&gt; are due a week from today.</description>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-02-07T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>RED paper link updated</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>The paper link for RED has been updated.  The postscript was buggy;  the newly linked PDF is happy.</description>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-02-02T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Office hour time selection on discussion site</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>Now that the class membership is a bit more stable, there's a post on the discussion site where people should express their preferences for office hour slots, if you have any.  We'll have the actual hours established by Monday.</description>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-02-01T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Problem set 1 small change</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>In section E, please draw the THREE RTTs following the loss, not just one.  The problem set has been updated.</description>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-01-30T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Problem set 1 available</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>The &lt;a href=&quot;http://www.cs.cmu.edu/~dga/15-744/S07/assignments.html&quot;&gt;first theory problem set&lt;/a&gt; is now online.</description>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-01-29T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Reading for Monday: Just a subset of GR</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>For Monday, you do NOT need to read all of GR yet. We\'ll be returning to this paper a bit later. For monday, please read the intro, section 2, skim over 6, and read the conclusion.</description>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-01-28T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Announcements RSS feed now available</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>You can now subscribe to the 15-744 announcements as an RSS feed.</description>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-01-26T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>Fundamentals Review Recitation</title>
+      <link>http://www.cs.cmu.edu/~dga/15-744/S07//announcements.html</link>
+      <description>The recitation for reviewing network fundamentals will be this &lt;strong&gt;Friday, 1/26&lt;/strong&gt; from &lt;strong&gt;3-4:30PM&lt;/strong&gt; in room &lt;strong&gt;WeH 4615A&lt;/strong&gt;. The slides are available &lt;a href=&quot;http://www.cs.cmu.edu/~jeffpang/talks/20070126_15744review.ppt&quot;&gt;here&lt;/a&gt;, and more can be found on last fall's &lt;a href=&quot;http://www.cs.cmu.edu/~srini/15-441/F06/syllabus.html&quot;&gt;15-441 page&lt;/a&gt;.</description>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0800</pubDate>
+      <dc:date>2019-01-22T00:00:00+08:00</dc:date>
+    </item>
+  </channel>
+</rss>
